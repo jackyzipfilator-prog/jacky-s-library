@@ -11,6 +11,42 @@ let officialGames = [
     "url": "https://gofile.io/d/LuKSln",
     "yt": "https://www.youtube.com/watch?v=Br8vAUbdhFI&t=1s&pp=ygUNcnYgdGhlcmUgeWV0IA%3D%3D",
     "img": "https://gaming-cdn.com/images/products/20702/orig/rv-there-yet-pc-steam-cover.jpg?v=1761118646"
+  },
+  {
+    "title": "Repo",
+    "url": "https://vik1ngfile.site/f/ggpaC0fxU5#REPO-SteamGG.NET.zip%20-%20878.70%20MB",
+    "yt": "https://youtu.be/AqhamuepAeE?si=acE8ghNYzmylJsP8",
+    "img": "https://i.ytimg.com/vi/IEhEymYkzRI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAAAfZjqO617nHrUEa_EW8HD_ZUfw"
+  },
+  {
+    "title": "content warning ",
+    "url": "https://vik1ngfile.site/f/M02hRnZB4o",
+    "yt": "https://www.youtube.com/watch?v=iyif6sL3rXs&pp=ygUWY29udGVudCB3YXJuaW5nIG1lbWVzIA%3D%3D",
+    "img": "https://steamgg.net/wp-content/uploads/2024/04/Content-Warning-Free-Download-SteamGG-2-jpg.webp"
+  },
+  {
+    "title": "GWtool (don't click on those fake ads download links in page) the correct one says \"trusted\" on the right screen",
+    "url": "https://garry-s-mod-addon-extractor-tool.software.informer.com/",
+    "yt": "",
+    "img": "https://media.moddb.com/images/downloads/1/179/178961/dcgp6gx-fc2b65c5-e07b-4371-b520-.png"
+  },
+  {
+    "title": "7z",
+    "url": "https://www.7-zip.org/",
+    "yt": "",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/7-Zip_Icon.svg/1200px-7-Zip_Icon.svg.png"
+  },
+  {
+    "title": "online fix Gmod download",
+    "url": "https://freetp.org/getfile-15252",
+    "yt": "",
+    "img": "https://content.any.run/tasks/09a8027c-7d58-4f48-905f-3d415f343e09/download/screens/1c7808a6-3645-46cf-9638-e7ce0d79638d/image.jpeg"
+  },
+  {
+    "title": "SteamCMD workshop download",
+    "url": "https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip",
+    "yt": "",
+    "img": "https://steamworkshopdownloader.io/assets/img/screenshot4.png"
   }
 ]; 
 
@@ -140,4 +176,5 @@ function copyLink(url) { navigator.clipboard.writeText(url); alert("Link copied!
 // Init
 
 render();
+
 
