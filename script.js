@@ -12,7 +12,7 @@ let officialGames = [
     "yt": "https://www.youtube.com/watch?v=Br8vAUbdhFI&t=1s&pp=ygUNcnYgdGhlcmUgeWV0IA%3D%3D",
     "img": "https://gaming-cdn.com/images/products/20702/orig/rv-there-yet-pc-steam-cover.jpg?v=1761118646"
   }
-];]; 
+]; 
 
 // Load from browser memory OR use the official list above
 let localGames = JSON.parse(localStorage.getItem('jacky_games')) || [];
@@ -140,3 +140,4 @@ function copyLink(url) { navigator.clipboard.writeText(url); alert("Link copied!
 // Init
 
 render();
+
