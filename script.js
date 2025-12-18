@@ -5,7 +5,14 @@ const isOwner = urlParams.get('admin') === 'jacky';
 
 // --- 2. THE DATA (Where games live for everyone) ---
 // When you "Export," you will paste the new list inside these brackets [ ]
-let officialGames = []; 
+let officialGames = [
+  {
+    "title": "rv there yet ",
+    "url": "https://gofile.io/d/LuKSln",
+    "yt": "https://www.youtube.com/watch?v=Br8vAUbdhFI&t=1s&pp=ygUNcnYgdGhlcmUgeWV0IA%3D%3D",
+    "img": "https://gaming-cdn.com/images/products/20702/orig/rv-there-yet-pc-steam-cover.jpg?v=1761118646"
+  }
+];]; 
 
 // Load from browser memory OR use the official list above
 let localGames = JSON.parse(localStorage.getItem('jacky_games')) || [];
@@ -131,4 +138,5 @@ function toggleModal(show) { document.getElementById('linkModal').style.display 
 function copyLink(url) { navigator.clipboard.writeText(url); alert("Link copied!"); }
 
 // Init
+
 render();
