@@ -25,8 +25,8 @@ let officialGames = [
     "img": "https://steamgg.net/wp-content/uploads/2024/04/Content-Warning-Free-Download-SteamGG-2-jpg.webp"
   },
   {
-    "title": "GWtool (don't click on those fake ads download links in page) the correct one says \"trusted\" on the right screen",
-    "url": "https://garry-s-mod-addon-extractor-tool.software.informer.com/",
+    "title": "GWtool",
+    "url": "https://download.informer.com/win-1191894052-a0a4cdcb-66593156-36682412299d5a7733-a87c397a7b738bd10-8188397327-1193179223/gmadextractor_1_6_12_600.zip",
     "yt": "",
     "img": "https://media.moddb.com/images/downloads/1/179/178961/dcgp6gx-fc2b65c5-e07b-4371-b520-.png"
   },
@@ -47,6 +47,12 @@ let officialGames = [
     "url": "https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip",
     "yt": "",
     "img": "https://steamworkshopdownloader.io/assets/img/screenshot4.png"
+  },
+  {
+    "title": "steamtools ",
+    "url": "https://www.steamtools.net/res/st-setup-1.8.17r2.exe",
+    "yt": "",
+    "img": "https://discord.me/cdn-cgi/image/fit=crop,width=945,height=370,metadata=none,format=auto/https://edge.discord.me/server/c2d604cce7017e149239bac40e24425d3e745a89a495b1b8fd56e8dfb2f95a6a/banner_4e38af53b329046b26624df87be759b427b452057a3eb4ce625c948f461f000b.jpg"
   }
 ]; 
 
@@ -176,5 +182,6 @@ function copyLink(url) { navigator.clipboard.writeText(url); alert("Link copied!
 // Init
 
 render();
+
 
 
