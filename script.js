@@ -26,7 +26,7 @@ let officialGames = [
   },
   {
     "title": "GWtool",
-    "url": "https://download.informer.com/win-1191894052-a0a4cdcb-66593156-36682412299d5a7733-a87c397a7b738bd10-8188397327-1193179223/gmadextractor_1_6_12_600.zip",
+    "url": "https://fmt4.dl.dbolical.com/dl/2019/05/30/GWtool_File_made_by_ZombieSlayer103.zip?st=CXs_5tKRplViHj99rzEhOQ==&e=1766279512",
     "yt": "",
     "img": "https://media.moddb.com/images/downloads/1/179/178961/dcgp6gx-fc2b65c5-e07b-4371-b520-.png"
   },
@@ -54,7 +54,7 @@ let officialGames = [
     "yt": "",
     "img": "https://discord.me/cdn-cgi/image/fit=crop,width=945,height=370,metadata=none,format=auto/https://edge.discord.me/server/c2d604cce7017e149239bac40e24425d3e745a89a495b1b8fd56e8dfb2f95a6a/banner_4e38af53b329046b26624df87be759b427b452057a3eb4ce625c948f461f000b.jpg"
   }
-]; 
+];
 
 // Load from browser memory OR use the official list above
 let localGames = JSON.parse(localStorage.getItem('jacky_games')) || [];
@@ -182,6 +182,7 @@ function copyLink(url) { navigator.clipboard.writeText(url); alert("Link copied!
 // Init
 
 render();
+
 
 
 
