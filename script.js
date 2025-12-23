@@ -27,31 +27,31 @@ let officialGames = [
   {
     "title": "GWtool",
     "url": "https://fmt4.dl.dbolical.com/dl/2019/05/30/GWtool_File_made_by_ZombieSlayer103.zip?st=CXs_5tKRplViHj99rzEhOQ==&e=1766279512",
-    "yt": "",
+    "yt": "https://www.youtube.com/watch?v=K99P9xMrZ-4",
     "img": "https://media.moddb.com/images/downloads/1/179/178961/dcgp6gx-fc2b65c5-e07b-4371-b520-.png"
   },
   {
     "title": "7z",
     "url": "https://www.7-zip.org/",
-    "yt": "",
+    "yt": "https://www.youtube.com/watch?v=K99P9xMrZ-4",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/7-Zip_Icon.svg/1200px-7-Zip_Icon.svg.png"
   },
   {
     "title": "online fix Gmod download",
     "url": "https://freetp.org/getfile-15252",
-    "yt": "",
+    "yt": "https://www.youtube.com/watch?v=79ux5CZ0ros",
     "img": "https://content.any.run/tasks/09a8027c-7d58-4f48-905f-3d415f343e09/download/screens/1c7808a6-3645-46cf-9638-e7ce0d79638d/image.jpeg"
   },
   {
     "title": "SteamCMD workshop download",
     "url": "https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip",
-    "yt": "",
+    "yt": "https://www.youtube.com/watch?v=K99P9xMrZ-4",
     "img": "https://steamworkshopdownloader.io/assets/img/screenshot4.png"
   },
   {
     "title": "steamtools ",
     "url": "https://www.steamtools.net/res/st-setup-1.8.17r2.exe",
-    "yt": "",
+    "yt": "https://www.youtube.com/watch?v=9vNDVKn3gL0",
     "img": "https://discord.me/cdn-cgi/image/fit=crop,width=945,height=370,metadata=none,format=auto/https://edge.discord.me/server/c2d604cce7017e149239bac40e24425d3e745a89a495b1b8fd56e8dfb2f95a6a/banner_4e38af53b329046b26624df87be759b427b452057a3eb4ce625c948f461f000b.jpg"
   }
 ];
@@ -182,6 +182,7 @@ function copyLink(url) { navigator.clipboard.writeText(url); alert("Link copied!
 // Init
 
 render();
+
 
 
 
