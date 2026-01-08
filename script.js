@@ -52,7 +52,7 @@ let officialGames = [
     "title": "steamtools ",
     "url": "https://www.steamtools.net/res/st-setup-1.8.17r2.exe",
     "yt": "https://www.youtube.com/watch?v=9vNDVKn3gL0",
-    "img": "https://discord.me/cdn-cgi/image/fit=crop,width=945,height=370,metadata=none,format=auto/https://edge.discord.me/server/c2d604cce7017e149239bac40e24425d3e745a89a495b1b8fd56e8dfb2f95a6a/banner_4e38af53b329046b26624df87be759b427b452057a3eb4ce625c948f461f000b.jpg"
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-lsZxIUkYmWLZdRtI83BI2yH_62OTkPdDg&s"
   }
 ];
 
@@ -182,6 +182,7 @@ function copyLink(url) { navigator.clipboard.writeText(url); alert("Link copied!
 // Init
 
 render();
+
 
 
 
