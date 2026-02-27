@@ -14,13 +14,13 @@ let officialGames = [
   },
   {
     "title": "Repo",
-    "url": "https://vik1ngfile.site/f/ggpaC0fxU5#REPO-SteamGG.NET.zip%20-%20878.70%20MB",
+    "url": "https://rs.vikingfile.com/download/lOduLy5ZZs/REPO-SteamGG.NET.zip?md5=HDDlq44K1YrSIGGmXJC1CQ&expires=1772245958",
     "yt": "https://youtu.be/AqhamuepAeE?si=acE8ghNYzmylJsP8",
     "img": "https://i.ytimg.com/vi/IEhEymYkzRI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAAAfZjqO617nHrUEa_EW8HD_ZUfw"
   },
   {
     "title": "content warning ",
-    "url": "https://vik1ngfile.site/f/M02hRnZB4o",
+    "url": "https://dr.vikingfile.com/download/EXkEpIPWNU/Content%20Warning-SteamGG.NET.zip?md5=bmHP0_LIHxBOTht-uOUVIg&expires=1772246088",
     "yt": "https://www.youtube.com/watch?v=iyif6sL3rXs&pp=ygUWY29udGVudCB3YXJuaW5nIG1lbWVzIA%3D%3D",
     "img": "https://steamgg.net/wp-content/uploads/2024/04/Content-Warning-Free-Download-SteamGG-2-jpg.webp"
   },
@@ -182,6 +182,7 @@ function copyLink(url) { navigator.clipboard.writeText(url); alert("Link copied!
 // Init
 
 render();
+
 
 
 
