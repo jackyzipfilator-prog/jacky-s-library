@@ -7,8 +7,8 @@ const isOwner = urlParams.get('admin') === 'jacky';
 // When you "Export," you will paste the new list inside these brackets [ ]
 let officialGames = [
   {
-    "title": "rv there yet ",
-    "url": "https://gofile.io/d/LuKSln",
+    "title": "rv there yet  (v1.1.15619 + Co-op)",
+    "url": "https://gofile.io/d/MiYHm2",
     "yt": "https://www.youtube.com/watch?v=Br8vAUbdhFI&t=1s&pp=ygUNcnYgdGhlcmUgeWV0IA%3D%3D",
     "img": "https://gaming-cdn.com/images/products/20702/orig/rv-there-yet-pc-steam-cover.jpg?v=1761118646"
   },
@@ -46,7 +46,7 @@ let officialGames = [
     "title": "SteamCMD workshop download",
     "url": "https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip",
     "yt": "https://www.youtube.com/watch?v=K99P9xMrZ-4",
-    "img": "https://steamworkshopdownloader.io/assets/img/screenshot4.png"
+    "img": "https://www.digitalcitizen.life/wp-content/uploads/2022/05/steamcmd-7.png"
   },
   {
     "title": "steamtools ",
@@ -182,6 +182,7 @@ function copyLink(url) { navigator.clipboard.writeText(url); alert("Link copied!
 // Init
 
 render();
+
 
 
 
